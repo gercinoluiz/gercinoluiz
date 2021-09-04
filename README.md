@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=portifolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://portfolio.gercinoluiz.com.br/)
 
-## I'm a Husband, Developer, and Teacher!!
+## I'm a Web Developer, a Sports lover and a Dreamer!!
 
 -    🌱 I’m currently learning everything 🤣
 -    🥅 2021 Goals: Contribute more to Open Source projects and social projects
