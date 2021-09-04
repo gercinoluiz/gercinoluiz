@@ -1,6 +1,6 @@
 ### Hi there, I'm [Gercino Luiz][website] 👋
 
-[![Website](https://img.shields.io/website?label=My portifolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://portfolio.gercinoluiz.com.br/)
+[![Website](https://img.shields.io/website?label=portifolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://portfolio.gercinoluiz.com.br/)
 
 ## I'm a Husband, Developer, and Teacher!!
 
